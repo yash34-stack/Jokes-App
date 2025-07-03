@@ -1,0 +1,19 @@
+*{
+    background-color:white;
+}
+#box{
+    height: 700;
+    width: 500px;
+    background-color: grey;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 10%;
+    border: 3px solid black;
+
+}
+#button{
+    background-color: black;
+    margin-bottom: 30px;
+}
